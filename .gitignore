@@ -1,0 +1,7 @@
+# Visual Studio and .NET
+bin/
+obj/
+*.pdb
+*.suo
+*.user
+*.userprefs
